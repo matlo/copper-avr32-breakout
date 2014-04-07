@@ -29,7 +29,7 @@ Creative Commons 3.0 Share-Alike Unported
 
 # Design Status
 
-This design was in larger (100-unit lot) production and was sold as a
+This design was in larger (100-unit lots) production and was sold as a
 pre-assembled kit.
 
 ## Boards available
