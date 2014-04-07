@@ -875,6 +875,7 @@ design rules under a new name.</description>
 <vertex x="0.9652" y="17.6784"/>
 <vertex x="1.1176" y="17.6784"/>
 </polygon>
+<wire x1="29.972" y1="7.2644" x2="29.972" y2="7.366" width="0" layer="19" extent="1-1"/>
 </signal>
 <signal name="1.8V">
 <contactref element="U1" pad="16"/>
